@@ -4,7 +4,7 @@
 <h2>Lilu by Gosia</h2>
 <body>Lilu is a fashion catalog that uses and external CMS and a simple design that makes it very easy to navigate and browse.</body><br>
 
-![Liluss.png](Liluss.png)
+![LilussCropped.png](LilussCropped.png)
 
 
 [Privacy Policy](/privacy-policy.md)
