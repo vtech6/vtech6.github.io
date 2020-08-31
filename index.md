@@ -6,4 +6,7 @@
 ![LilussCropped.png](LilussCropped.png)
 <h5>Using: SwiftUI, API calls, MapKit</h5>
 
+[![hanzishifu](http://img.youtube.com/vi/2JpPUvy1oLk/0.jpg)](http://www.youtube.com/watch?v=2JpPUvy1oLk "HanziShifu - Preview")
+<h5>Using: UIKit, SwiftUI, CoreGraphics, Combine (click on the image to watch the preview on YouTube)</h5>
+
 [Privacy Policy](/privacy-policy.md)
